@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataType.iml" filepath="$PROJECT_DIR$/.idea/modules/DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataType_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DataType_main.iml" group="DataType" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataType_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DataType_test.iml" group="DataType" />
+    </modules>
+  </component>
+</project>
