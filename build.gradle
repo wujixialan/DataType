@@ -1,5 +1,9 @@
 group 'kotlin'
 version '1.0-SNAPSHOT'
+//配置导出可执行文件的插件
+apply plugin: "application"
+//配置可执行文件的 main Class
+mainClassName = "com.zxg.BaseType.chap3.CalcKt"
 
 buildscript {
     ext.kotlin_version = '1.1.4'
